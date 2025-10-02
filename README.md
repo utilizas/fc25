@@ -3,8 +3,8 @@
 
 <img src="gemcov.png" alt="CPU con carcasa en forma de libro - Gemini 2.5 Flash, 11/09/2025" style="width:80%;">
 
-Esta monografía ofrece una aproximación práctica a la epistemología aplicada, centrada en el análisis de casos y protocolos utilizados en distintos ámbitos profesionales. 
-Más que teorizar sobre metodologías, se busca mostrar cómo se aplican en contextos reales, incentivando una comprensión situada y actualizada del conocimiento disciplinar.
+Esta monografía ofrece una aproximación práctica a la epistemología aplicada, centrada en el análisis de casos y protocolos utilizados en divesos ámbitos disciplinares. 
+Más que teorizar sobre metodologías, se busca mostrar cómo se aplican en contextos reales, incentivando una comprensión situada y actualizada del conocimiento interdisciplinar.
 
 El contenido se nutre de debates públicos recientes sobre temas como el negacionismo del cambio climático, la hostilidad hacia la ciencia y el rechazo de las vacunas y otros programas de salud pública, por lo general integrando estudios de caso adaptados a estudiantes de Filosofía. 
 El Anexo II amplía esta perspectiva con un análisis del sobreturismo como fenómeno epistémico y social, vinculado a modelos y prácticas de apropiación territorial.
