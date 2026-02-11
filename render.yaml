@@ -1,6 +1,5 @@
 services:
-  - type: web
+  - type: static_site
     name: fc25
-    env: static
     buildCommand: ""
     staticPublishPath: .
