@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: fc25
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
